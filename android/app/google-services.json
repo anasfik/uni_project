@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876284661568",
+    "project_id": "iniiiiiiiii",
+    "storage_bucket": "iniiiiiiiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876284661568:android:b07301ef2e23171681f4a5",
+        "android_client_info": {
+          "package_name": "com.example12as.kordofan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876284661568-a2hiocfbjhq3ml947kl3aog124149p61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCLJ2B-B0ZHKpt6dvdW7_Eya3J1hof3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876284661568-a2hiocfbjhq3ml947kl3aog124149p61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
